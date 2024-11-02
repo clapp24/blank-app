@@ -7,8 +7,8 @@ st.write(
 
 
 liste_personen = ["Paul", "Anna", "Dieter", "Karl", "Sabrina", "Wiebke"]
-liste_obst = ["Apfel", "Birne", "Pflaume", "Banane", "Orange"]
-liste_staedte = ["Berlin", "München", "Hamburg", "Köln", "Frankfurt", "Dortmund", "Leipzig"]
+liste_obst = ["Äpfel", "Birnen", "Pflaumen", "Bananen", "Orangen"]
+liste_staedte = ["Berlin", "München", "Hamburg", "Köln", "Frankfurt", "Dortmund", "Leipzig", "Bochum", "Erfurt", "Stuttgart"]
 
 auswahl_person = st.selectbox("Bitte eine Person auswählen", liste_personen)
 auswahl_obst = st.selectbox("Bitte eine Obstsorte auswählen", liste_obst)
